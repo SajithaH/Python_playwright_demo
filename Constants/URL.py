@@ -1,0 +1,1 @@
+base_url="https://groceryapp.uniqassosiates.com/admin/login"

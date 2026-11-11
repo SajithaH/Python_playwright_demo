@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5801","test_admin_login_pom[chromium]","test_scripts","2026-11-09","passed","2026-11-09","TestDemo","test_plugins","",""
+"","4872","test_admin_logout[chromium]","test_scripts","2026-11-09","broken","2026-11-09","TestDemo","test_plugins","",""
+"","7377","test_base_login[chromium]","test_scripts","2026-11-09","passed","2026-11-09","TestDemo","test_plugins","",""
