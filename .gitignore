@@ -1,0 +1,8 @@
+# Created by pytest automatically.
+*
+/venv
+allure-report/
+allureresults/
+REPORTS/
+SCREENSHOTS/
+test-results/
